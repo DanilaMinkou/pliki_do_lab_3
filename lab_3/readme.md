@@ -7,7 +7,7 @@ Mozemy skorzystać z opcji dodawania zdjęć.
 
 Lub listy wykonanych zadań:
 
-- [x] Główny plik HTML
+- [X] Główny plik HTML
 - [ ] Plik licenci
 - [x] kod css
 - [ ] edycja wyświetlania znaczników
