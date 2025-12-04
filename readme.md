@@ -54,7 +54,7 @@ Repozytorium zawiera stronę internetową poświęconą gwiazdozbiorowi Orion wr
 - Uzupełniono plik `LICENSE.md` o dane autora i rok 2025
 - Wszystkie zmiany zostały scalone, repozytorium jest czyste
 - Wygenerowano końcowe logi:  
-  `git log --graph --all --decorate --oneline > log_final.txt` (lub .csv)
+  `git log --graph --all --decorate --oneline > log_final.csv`
 
 ## Źródła
 
