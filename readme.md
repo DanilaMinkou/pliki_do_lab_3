@@ -5,7 +5,7 @@ Repozytorium zawiera stronę internetową poświęconą gwiazdozbiorowi Orion wr
 ![Mgławica Orion](src/nasa_01.png)  
 Źródło: [NASA/JPL-Caltech/UCLA](https://www.nasa.gov)
 
-## Lista wykonanych zadań
+## Lista wykonanych zada
 
 - [x] Główny plik HTML (`index.html`)
 - [x] Plik licencji (`LICENSE.md`) – uzupełniony o imię, nazwisko i rok 2025
